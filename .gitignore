@@ -1,0 +1,24 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+gen/
+.venv/
+.env
+__pycache__
+.adk
+.claude/*
+
+uv.lock
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+
+
+# Datastore
+DataGen/documents/*
+DataGen/*.csv
+*db

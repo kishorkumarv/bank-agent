@@ -1,0 +1,31 @@
+dataset: ${BQ_DATASET}
+
+tables:
+  - name: customers
+    schema:
+      - {name: customer_id, type: STRING}
+      - {name: name,        type: STRING}
+      - {name: dob,         type: STRING}
+      - {name: postcode,    type: STRING}
+      - {name: address,     type: STRING}
+      - {name: age,         type: INTEGER}
+      - {name: gender,      type: STRING}
+      - {name: phone,       type: STRING}
+    seed_file: bq_seed/customers.json
+
+  - name: accounts
+    schema:
+      - {name: account_id,   type: STRING}
+      - {name: customer_id,  type: STRING}
+      - {name: product_type, type: STRING}
+      - {name: balance,      type: FLOAT}
+    seed_file: bq_seed/accounts.json
+
+  - name: transactions
+    schema:
+      - {name: account_id,  type: STRING}
+      - {name: description, type: STRING}
+      - {name: amount,      type: FLOAT}
+      - {name: type,        type: STRING}
+      - {name: date,        type: STRING}
+    seed_file: bq_seed/transactions.json
