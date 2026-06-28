@@ -1,0 +1,5 @@
+{"customer_id":"C001","name":"Alice Thornton","dob":"1985-03-12","postcode":"SW1A 1AA","address":"10 Downing Street, London","age":39,"gender":"F","phone":"07700900001"}
+{"customer_id":"C002","name":"Bob Hargreaves","dob":"1972-07-24","postcode":"EC1A 1BB","address":"1 Barbican, London","age":52,"gender":"M","phone":"07700900002"}
+{"customer_id":"C003","name":"Clara Nguyen","dob":"1990-11-05","postcode":"M1 1AE","address":"1 Piccadilly, Manchester","age":34,"gender":"F","phone":"07700900003"}
+{"customer_id":"C004","name":"David Okonkwo","dob":"1968-01-30","postcode":"B1 1BB","address":"1 Corporation Street, Birmingham","age":56,"gender":"M","phone":"07700900004"}
+{"customer_id":"C005","name":"Evelyn Marchetti","dob":"1995-06-18","postcode":"EH1 1YZ","address":"1 Royal Mile, Edinburgh","age":29,"gender":"F","phone":"07700900005"}

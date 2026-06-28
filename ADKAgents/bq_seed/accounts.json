@@ -1,0 +1,9 @@
+{"account_id":"A001","customer_id":"C001","product_type":"Current Account","balance":2450.75}
+{"account_id":"A002","customer_id":"C001","product_type":"Savings Account","balance":12000.00}
+{"account_id":"A003","customer_id":"C002","product_type":"Current Account","balance":850.20}
+{"account_id":"A004","customer_id":"C002","product_type":"ISA","balance":5500.00}
+{"account_id":"A005","customer_id":"C003","product_type":"Current Account","balance":3100.50}
+{"account_id":"A006","customer_id":"C004","product_type":"Current Account","balance":420.10}
+{"account_id":"A007","customer_id":"C004","product_type":"Mortgage","balance":-185000.00}
+{"account_id":"A008","customer_id":"C005","product_type":"Current Account","balance":6780.00}
+{"account_id":"A009","customer_id":"C005","product_type":"Savings Account","balance":9200.00}
